@@ -7,7 +7,6 @@ Student of Belarusian - Russian University
 *E-mail:* andreykironaldo@gmail.com
 *vk:* https://vk.com/wanhit
 ___
-
 #### ABOUT ME
 ##### Aspirations:
 * permanent self - development;
