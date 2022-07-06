@@ -3,9 +3,9 @@
 
 ![AndrewProfile](https://www.koreapas.com/bbs/icon/new/member_1496248633.jpg)
 
-Student of Belarusian - Russian University
-*E-mail:* andreykironaldo@gmail.com
-*vk:* https://vk.com/wanhit
+Student of Belarusian - Russian University  
+*E-mail:* andreykironaldo@gmail.com  
+*vk:* https://vk.com/wanhit  
 ___
 #### ABOUT ME
 ##### Aspirations:
