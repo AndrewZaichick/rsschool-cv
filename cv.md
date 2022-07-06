@@ -2,6 +2,7 @@
 >"Better with boys on a bike, than with bandits on a helix."
 
 ![AndrewProfile](https://www.koreapas.com/bbs/icon/new/member_1496248633.jpg)
+
 Student of Belarusian - Russian University
 *E-mail:* andreykironaldo@gmail.com
 *vk:* https://vk.com/wanhit
@@ -73,7 +74,7 @@ enum MathOperation
         }
 ```
 ___
-#####English skills:
+##### English skills:
 *A1* (getting better)
 
 ##### Skills:
